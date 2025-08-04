@@ -5,7 +5,7 @@ Powered by LangChain and Google's Gemini Pro, this project provides context-awar
 
 ---
 
-## 🚀 Features
+## Features
 
 - 🔍 Upload and process multiple PDFs
 - 🤖 Ask questions about the document's content
@@ -27,3 +27,7 @@ Powered by LangChain and Google's Gemini Pro, this project provides context-awar
 - **dotenv** (for secret management)
 
 ---
+## Setup Instructions
+Clone the repo
+
+
