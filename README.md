@@ -28,6 +28,13 @@ Powered by LangChain and Google's Gemini Pro, this project provides context-awar
 
 ---
 ## Setup Instructions
-Clone the repo
+1) Clone the repo
+2) Create and activate virtual environment
+3) Install dependencies
+4) Set your environment variables
+    -Create a .env file and add:
+5) Run the app
+    - streamlit run app.py
+
 
 
