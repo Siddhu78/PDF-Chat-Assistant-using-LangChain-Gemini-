@@ -24,7 +24,6 @@ Powered by LangChain and Google's Gemini Pro, this project provides context-awar
 - **FAISS**
 - **Streamlit**
 - **PyMuPDF / pdfminer / pdfplumber** (for PDF reading)
-- **dotenv** (for secret management)
 
 ---
 ## Setup Instructions
